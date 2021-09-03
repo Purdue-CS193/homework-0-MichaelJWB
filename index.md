@@ -14,20 +14,16 @@ Syntax highlighted code block
 # Michael Braddick's First CS193 Homework
 
 
-## Header 2
-### Header 3
 
 - Favorite Things About CS193
 - 1. The classroom is a very nice classroom
 - 2. It is only a one credit hour course
 - 3. The lights are operated via dimmer switches (Very Practical!!!)
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](src)https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
